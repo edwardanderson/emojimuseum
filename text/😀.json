@@ -1,0 +1,122 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://id.emojimuseum.art/text/😀",
+    "type": "LinguisticObject",
+    "_label": "Character: grinning face",
+    "content": "😀",
+    "identified_by": [
+        {
+            "type": "Identifier",
+            "content": "U+1F600",
+            "classified_as": [
+                {
+                    "id": "http://www.wikidata.org/entity/Q109615047",
+                    "type": "Type",
+                    "_label": "Unicode code point"
+                }
+            ]
+        },
+        {
+            "type": "Name",
+            "content": "Grinning Face",
+            "language": {
+                "id": "http://vocab.getty.edu/aat/300388277",
+                "type": "Language",
+                "_label": "English"
+            }
+        }
+    ],
+    "classified_as": [
+        {
+            "id": "http://vocab.getty.edu/aat/300412189",
+            "type": "Type",
+            "_label": "emoji",
+            "classified_as": [
+                {
+                    "id": "http://vocab.getty.edu/aat/300435443",
+                    "type": "Type",
+                    "_label": "Type of Work"
+                }
+            ]
+        }
+    ],
+    "representation": [
+        {
+            "id": "https://id.emojimuseum.art/visual/😀",
+            "type": "VisualItem",
+            "_label": "Design: grinning face"
+        }
+    ],
+    "member_of": [
+        {
+            "id": "https://id.emojimuseum.art/set/face-smiling",
+            "type": "Set",
+            "_label": "face-smiling"
+        }
+    ],
+    "subject_of": [
+        {
+            "type": "LinguisticObject",
+            "_label": "Homepage: Emojipedia",
+            "digitally_carried_by": [
+                {
+                    "type": "DigitalObject",
+                    "format": "text/html",
+                    "access_point": "https://emojipedia.org/grinning-face"
+                }
+            ]
+        }
+    ],
+    "assigned_by": [
+        {
+            "type": "AttributeAssignment",
+            "carried_out_by": [
+                {
+                    "id": "http://www.wikidata.org/entity/Q1572774",
+                    "type": "Group",
+                    "_label": "Unicode Consortium"
+                }
+            ],
+            "assigned_property": "member_of",
+            "assigned": [
+                {
+                    "id": "https://id.emojimuseum.art/set/emoji-v1.0",
+                    "type": "Set",
+                    "_label": "Emoji 1.0"
+                }
+            ],
+            "timespan": {
+                "type": "TimeSpan",
+                "begin_of_the_begin": "2015-01-01T00:00:00Z",
+                "end_of_the_end": "2015-12-31-23:59:59Z",
+                "identified_by": [
+                    {
+                        "type": "Name",
+                        "content": "2015"
+                    }
+                ]
+            }
+        }
+    ],
+    "created_by": {
+        "type": "Creation",
+        "timespan": {
+            "type": "TimeSpan",
+            "begin_of_the_begin": "2012-01-01T00:00:00Z",
+            "end_of_the_end": "2012-12-31T23:59:59Z",
+            "identified_by": [
+                {
+                    "type": "Name",
+                    "content": "2012"
+                }
+            ]
+        },
+        "carried_out_by": [
+            {
+                "id": "http://www.wikidata.org/entity/Q1572774",
+                "type": "Group",
+                "_label": "Unicode Consortium"
+            }
+        ]
+    }
+}

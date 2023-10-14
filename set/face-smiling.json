@@ -1,0 +1,46 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://id.emojimuseum.art/set/face-smiling",
+    "type": "Set",
+    "attributed_by": [
+        {
+            "type": "AttributeAssignment",
+            "assigned": [
+                {
+                    "id": "http://vocab.getty.edu/aat/300417502",
+                    "type": "Type",
+                    "_label": "smiling"
+                },
+                {
+                    "id": "http://vocab.getty.edu/aat/300251798",
+                    "type": "Type",
+                    "_label": "faces (animal components)"
+                }
+            ],
+            "assigned_property": "about"
+        }
+    ],
+    "identified_by": [
+        {
+            "type": "Name",
+            "content": "Face Smiling",
+            "language": {
+                "id": "http://vocab.getty.edu/aat/300388277",
+                "type": "Language",
+                "_label": "English"
+            }
+        }
+    ],
+    "member_of": [
+        {
+            "id": "https://id.emojimuseum.art/set/smileys-and-emotion",
+            "type": "Set",
+            "_label": "Smileys & Emotion"
+        },
+        {
+            "id": "https://id.emojimuseum.art/set/emoji-v15.1",
+            "type": "Set",
+            "_label": "Emoji v15.1"
+        }
+    ]
+}

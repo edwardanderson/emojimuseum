@@ -1,0 +1,32 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://id.emojimuseum.art/visual/😀",
+    "type": "VisualItem",
+    "_label": "Design: grinning face",
+    "represents": [
+        {
+            "id": "https://id.emojimuseum.art/text/😀",
+            "type": "LinguisticObject",
+            "_label": "Character: grinning face"
+        }
+    ],
+    "represents_entity_of_type": [
+        {
+            "id": "https://iconclass.org/31B62313",
+            "type": "Type",
+            "_label": "smiling"
+        },
+        {
+            "id": "https://iconclass.org/31A2211",
+            "type": "Type",
+            "_label": "face"
+        }
+    ],
+    "digitally_shown_by": [
+        {
+            "id": "https://id.emojimuseum.art/digital/apple/😀",
+            "type": "DigitalObject",
+            "_label": "Apple image: grinning face"
+        }
+    ]
+}
