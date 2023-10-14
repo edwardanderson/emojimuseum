@@ -1,11 +1,11 @@
 {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "https://id.emojimuseum.art/visual/😀",
+    "id": "https://edwardanderson.github.io/emojimuseum/visual/😀",
     "type": "VisualItem",
     "_label": "Design: grinning face",
     "represents": [
         {
-            "id": "https://id.emojimuseum.art/text/😀",
+            "id": "https://edwardanderson.github.io/emojimuseum/text/😀",
             "type": "LinguisticObject",
             "_label": "Character: grinning face"
         }
@@ -24,7 +24,7 @@
     ],
     "digitally_shown_by": [
         {
-            "id": "https://id.emojimuseum.art/digital/apple/😀",
+            "id": "https://edwardanderson.github.io/emojimuseum/digital/apple/😀",
             "type": "DigitalObject",
             "_label": "Apple image: grinning face"
         }

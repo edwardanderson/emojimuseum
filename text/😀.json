@@ -1,6 +1,6 @@
 {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "https://id.emojimuseum.art/text/😀",
+    "id": "https://edwardanderson.github.io/emojimuseum/text/😀",
     "type": "LinguisticObject",
     "_label": "Character: grinning face",
     "content": "😀",
@@ -42,14 +42,14 @@
     ],
     "representation": [
         {
-            "id": "https://id.emojimuseum.art/visual/😀",
+            "id": "https://edwardanderson.github.io/emojimuseum/visual/😀",
             "type": "VisualItem",
             "_label": "Design: grinning face"
         }
     ],
     "member_of": [
         {
-            "id": "https://id.emojimuseum.art/set/face-smiling",
+            "id": "https://edwardanderson.github.io/emojimuseum/set/face-smiling",
             "type": "Set",
             "_label": "face-smiling"
         }
@@ -80,7 +80,7 @@
             "assigned_property": "member_of",
             "assigned": [
                 {
-                    "id": "https://id.emojimuseum.art/set/emoji-v1.0",
+                    "id": "https://edwardanderson.github.io/emojimuseum/set/emoji-v1.0",
                     "type": "Set",
                     "_label": "Emoji 1.0"
                 }

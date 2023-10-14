@@ -1,6 +1,6 @@
 {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "https://id.emojimuseum.art/set/face-smiling",
+    "id": "https://edwardanderson.github.io/emojimuseum/set/face-smiling",
     "type": "Set",
     "attributed_by": [
         {
@@ -33,12 +33,12 @@
     ],
     "member_of": [
         {
-            "id": "https://id.emojimuseum.art/set/smileys-and-emotion",
+            "id": "https://edwardanderson.github.io/emojimuseum/set/smileys-and-emotion",
             "type": "Set",
             "_label": "Smileys & Emotion"
         },
         {
-            "id": "https://id.emojimuseum.art/set/emoji-v15.1",
+            "id": "https://edwardanderson.github.io/emojimuseum/set/emoji-v15.1",
             "type": "Set",
             "_label": "Emoji v15.1"
         }

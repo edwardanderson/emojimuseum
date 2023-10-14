@@ -1,6 +1,6 @@
 {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "https://id.emojimuseum.art/digital/apple/😀",
+    "id": "https://edwardanderson.github.io/emojimuseum/digital/apple/😀",
     "type": "DigitalObject",
     "_label": "Apple image: grinning face",
     "classified_as": [
