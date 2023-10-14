@@ -1,0 +1,3 @@
+# Example view
+
+Lorem ipsum.
