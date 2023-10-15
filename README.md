@@ -4,7 +4,7 @@ Linked Art knowledge graph of emojis.
 
 ## Example
 
-Describe an artwork with an arbitrary sequence of emojis: [🌃🥁💂🐕](https://edwardanderson.github.io/emojimuseum/text/🌃🥁💂🐕).
+Describe an artwork with an arbitrary sequence of emojis: [🌃💂🥁🐕](https://edwardanderson.github.io/emojimuseum/text/🌃💂🥁🐕).
 
 ```json
 {
@@ -18,9 +18,9 @@ Describe an artwork with an arbitrary sequence of emojis: [🌃🥁💂🐕](htt
             "_label": "Visual work of The Night Watch",
             "subject_of": [
                 {
-                    "id": "https://edwardanderson.github.io/emojimuseum/text/🌃🥁💂🐕",
+                    "id": "https://edwardanderson.github.io/emojimuseum/text/🌃💂🥁🐕",
                     "type": "LinguisticObject",
-                    "_label": "🌃🥁💂🐕"
+                    "_label": "🌃💂🥁🐕"
                 }
             ]
         }
