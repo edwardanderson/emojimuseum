@@ -1,0 +1,37 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://edwardanderson.github.io/emojimuseum/text/🌃💂🥁🐕",
+    "type": "LinguisticObject",
+    "_label": "Statement: night with stars, drum, guard, dog",
+    "content": "🌃💂🥁🐕",
+    "representation": [
+        {
+            "id": "https://edwardanderson.github.io/emojimuseum/visual/🌃💂🥁🐕",
+            "type": "VisualItem",
+            "_label": "Appearance: 🌃💂🥁🐕"
+        }
+    ],
+    "_links": {
+        "curies": [
+            {
+                "name": "la",
+                "href": "https://linked.art/api/1.0/rels/{rel}",
+                "templated": true
+            }
+        ],
+        "la:part": [
+            {
+                "href": "https://edwardanderson.github.io/emojimuseum/text/🌃"
+            },
+            {
+                "href": "https://edwardanderson.github.io/emojimuseum/text/💂"
+            },
+            {
+                "href": "https://edwardanderson.github.io/emojimuseum/text/🥁"
+            },
+            {
+                "href": "https://edwardanderson.github.io/emojimuseum/text/🐕"
+            }
+        ]
+    }
+}

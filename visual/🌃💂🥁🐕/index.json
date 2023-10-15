@@ -1,0 +1,58 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://edwardanderson.github.io/emojimuseum/visual/🌃💂🥁🐕",
+    "type": "VisualItem",
+    "_label": "Appearance: 🌃💂🥁🐕",
+    "represents": [
+        {
+            "id": "https://edwardanderson.github.io/emojimuseum/text/🌃💂🥁🐕",
+            "type": "LinguisticObject",
+            "_label": "Statement: night with stars, drum, guard, dog"
+        }
+    ],
+    "represents_entity_of_type": [
+        {
+            "id": "https://iconclass.org/23R14",
+            "type": "Type",
+            "_label": "night"
+        },
+        {
+            "id": "https://iconclass.org/45B",
+            "type": "Type",
+            "_label": "the soldier; the soldier's life"
+        },
+        {
+            "id": "https://iconclass.org/48C7341",
+            "type": "Type",
+            "_label": "drum (musical instrument)"
+        },
+        {
+            "id": "https://iconclass.org/34B11",
+            "type": "Type",
+            "_label": "dog"
+        }
+    ],
+    "_links": {
+        "curies": [
+            {
+                "name": "la",
+                "href": "https://linked.art/api/1.0/rels/{rel}",
+                "templated": true
+            }
+        ],
+        "la:part": [
+            {
+                "href": "https://edwardanderson.github.io/emojimuseum/visual/🌃"
+            },
+            {
+                "href": "https://edwardanderson.github.io/emojimuseum/visual/💂"
+            },
+            {
+                "href": "https://edwardanderson.github.io/emojimuseum/visual/🥁"
+            },
+            {
+                "href": "https://edwardanderson.github.io/emojimuseum/visual/🐕"
+            }
+        ]
+    }
+}
