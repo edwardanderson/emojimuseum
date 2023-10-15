@@ -1,6 +1,10 @@
 # Emoji Museum
 
+Linked Art knowledge graph of emojis.
+
 ## Example
+
+Describe an artwork with an arbitrary sequence of emojis: [🌃🥁💂🐕](https://edwardanderson.github.io/emojimuseum/text/🌃🥁💂🐕).
 
 ```json
 {

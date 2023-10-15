@@ -1,0 +1,27 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://edwardanderson.github.io/emojimuseum/visual/🌃",
+    "type": "VisualItem",
+    "_label": "Appearance: 🌃",
+    "represents": [
+        {
+            "id": "https://edwardanderson.github.io/emojimuseum/text/🌃",
+            "type": "LinguisticObject",
+            "_label": "Character: night with stars"
+        }
+    ],
+    "represents_entity_of_type": [
+        {
+            "id": "https://iconclass.org/23R14",
+            "type": "Type",
+            "_label": "night"
+        }
+    ],
+    "digitally_shown_by": [
+        {
+            "id": "https://edwardanderson.github.io/emojimuseum/digital/apple/🌃",
+            "type": "DigitalObject",
+            "_label": "Apple image: night with stars"
+        }
+    ]
+}

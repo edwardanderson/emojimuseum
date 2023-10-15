@@ -1,0 +1,30 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://edwardanderson.github.io/emojimuseum/digital/apple/🌃",
+    "type": "DigitalObject",
+    "_label": "Apple image: night with stars",
+    "classified_as": [
+        {
+            "id": "http://vocab.getty.edu/aat/300215302",
+            "type": "Type",
+            "_label": "Digital Image"
+        }
+    ],
+    "format": "image/png",
+    "access_point": [
+        {
+            "id": "https://em-content.zobj.net/source/apple/354/night-with-stars_1f303.png",
+            "type": "DigitalObject"
+        }
+    ],
+    "created_by": {
+        "type": "Creation",
+        "carried_out_by": [
+            {
+                "id": "http://www.wikidata.org/entity/Q312",
+                "type": "Group",
+                "_label": "Apple"
+            }
+        ]
+    }
+}
